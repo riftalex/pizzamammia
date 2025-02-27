@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(201, 201, 201);
+    color: rgb(33, 51, 56);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.alen {
+    display: flex;
+}
+p {
+    padding: 20px;
+}
